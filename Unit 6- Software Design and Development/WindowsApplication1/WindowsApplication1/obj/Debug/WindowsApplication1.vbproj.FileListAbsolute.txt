@@ -1,0 +1,53 @@
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\College work\Akakpo\Unit 6\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\BTEC ICT\Mr Akakpo\Unit 6 COMPLETE\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\BTEC ICT\Mr Akakpo\Unit 6 COMPLETE\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\BTEC ICT\Mr Akakpo\Unit 6 COMPLETE\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\BTEC ICT\Mr Akakpo\Unit 6 COMPLETE\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\BTEC ICT\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\College\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\College\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\College\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\College\BTEC ICT\Year 1\Mr Akakpo\Unit 6- Software Design and Development\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
