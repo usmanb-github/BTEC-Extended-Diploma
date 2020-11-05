@@ -1,0 +1,24 @@
+<html>
+<head>
+     <meta htt[-equiv="Content-type" content="text/html; charest=UTF-8"/>
+     
+     <title>CompanyName - PageName</title>
+     <meta http-equiv="Content-Language" content="en-us"/>
+     
+     <meta name="description" content="Description" />
+     <meta name="keyboard" content="keyboards"/>
+     
+     <meta name="author" content="Enlighten Designs" />
+      
+     <style type="text/css" media="all">@import "css/master.css";</style>
+</head>
+<body>
+
+<div id="page-container">
+<div id ="main-nav">Main Nav</div>
+<div id="sidebar-a">Sidebar A</div>
+<div id="content">Content</div>
+<div id="footer"/Footer</div>
+</div>
+</body>
+</html>
